@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcquisitionServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c627d5823ef28de1420a554121706412f8147f8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12557f906d12c3d5d21df6de9272b306fc0b4f78")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcquisitionServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcquisitionServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
