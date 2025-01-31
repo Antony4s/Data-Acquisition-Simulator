@@ -1,15 +1,22 @@
+
+# Ignore build directories
+obj/
+bin/
 # Ignore Visual Studio-specific files
 .vs/
 
 # Ignore build output directories
-obj/
-bin/
+AcquisitionServer/obj/
+DataAcquisitionSimulatorNew/obj/
+DataAcquisitionSimulatorNew/bin/
 
 # Ignore user-specific settings
 *.user
 *.suo
 *.log
 *.tmp
+*.userosscache
+*.sln.docstates
 
 # Ignore generated files
 *.pdb
