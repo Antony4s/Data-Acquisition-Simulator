@@ -80,12 +80,24 @@ namespace DataAcquisitionSimulatorNew.ViewModels
             }
         }
 
+        private string _settingsButtonText = "Hide Settings"; // Default to "Hide Settings"
+        public string SettingsButtonText
+        {
+            get => _settingsButtonText;
+            set
+            {
+                _settingsButtonText = value;
+                OnPropertyChanged(nameof(SettingsButtonText));
+            }
+        }
+
         public ICommand ToggleSettingsCommand { get; }
 
 
         private void ToggleSettings()
         {
             IsSettingsVisible = !IsSettingsVisible;
+            SettingsButtonText = IsSettingsVisible ? "Hide Settings" : "Show Settings";
         }
         //private readonly SensorSettingsService _sensorSettingsService = new();
 

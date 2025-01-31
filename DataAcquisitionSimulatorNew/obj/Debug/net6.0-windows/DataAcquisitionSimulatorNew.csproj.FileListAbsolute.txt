@@ -79,3 +79,4 @@ C:\Progetti Miei\DataAcquisitionSimulatorNew\DataAcquisitionSimulatorNew\obj\Deb
 C:\Progetti Miei\DataAcquisitionSimulatorNew\DataAcquisitionSimulatorNew\obj\Debug\net6.0-windows\Views\SplashWindow.g.cs
 C:\Progetti Miei\DataAcquisitionSimulatorNew\DataAcquisitionSimulatorNew\obj\Debug\net6.0-windows\Views\SettingsWindow.baml
 C:\Progetti Miei\DataAcquisitionSimulatorNew\DataAcquisitionSimulatorNew\obj\Debug\net6.0-windows\Views\SplashWindow.baml
+C:\Progetti Miei\DataAcquisitionSimulatorNew\DataAcquisitionSimulatorNew\obj\Debug\net6.0-windows\DataAcquisitionSimulatorNew.sourcelink.json

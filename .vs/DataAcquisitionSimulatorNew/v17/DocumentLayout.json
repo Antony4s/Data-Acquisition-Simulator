@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\services\\sensorsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\services\\sensorsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\helpers\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\helpers\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\services\\sensorsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\services\\sensorsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\views\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\services\\sensorsettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\services\\sensorsettingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,14 +67,6 @@
       "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\helpers\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\helpers\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\views\\splashwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\views\\splashwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|solutionrelative:dataacquisitionsimulatornew\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2E2C23C-A056-44A1-BD1F-EFD967E1AA53}|DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj|c:\\progetti miei\\dataacquisitionsimulatornew\\dataacquisitionsimulatornew\\views\\splashwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -147,7 +147,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -155,82 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Command.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\Command.cs",
-              "RelativeDocumentMoniker": "AcquisitionShared\\Command.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\Command.cs",
-              "RelativeToolTip": "AcquisitionShared\\Command.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T23:26:11.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CommandTypes.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\CommandTypes.cs",
-              "RelativeDocumentMoniker": "AcquisitionShared\\CommandTypes.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\CommandTypes.cs",
-              "RelativeToolTip": "AcquisitionShared\\CommandTypes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T23:25:05.476Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T18:38:19.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SettingsWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBoAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T22:22:57.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SensorSettingsService.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwCYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T22:12:35.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "SensorSettingsManager.cs",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\SensorSettingsManager.cs",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Services\\SensorSettingsManager.cs",
               "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\SensorSettingsManager.cs",
               "RelativeToolTip": "DataAcquisitionSimulatorNew\\Services\\SensorSettingsManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAkAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T22:55:48.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml",
@@ -243,67 +181,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAM8BAAAAAAAAAAAjwNsBAAAaAAAAAAAAAA==",
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:45:13.888Z",
+              "WhenOpened": "2025-01-24T23:29:15.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataLoggerService.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAuwDYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T19:01:32.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Sensor.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:01:56.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StringToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T23:22:20.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TimeFormatter.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T17:52:27.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\App.xaml",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\App.xaml",
@@ -315,7 +205,141 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:45:13.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:31:18.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorSettingsService.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Services\\SensorSettingsService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:12:35.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T22:22:57.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:38:19.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommandTypes.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\CommandTypes.cs",
+              "RelativeDocumentMoniker": "AcquisitionShared\\CommandTypes.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\CommandTypes.cs",
+              "RelativeToolTip": "AcquisitionShared\\CommandTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T23:25:05.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\Command.cs",
+              "RelativeDocumentMoniker": "AcquisitionShared\\Command.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\AcquisitionShared\\Command.cs",
+              "RelativeToolTip": "AcquisitionShared\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T23:26:11.167Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "DataLoggerService.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Services\\DataLoggerService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T19:01:32.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Models\\Sensor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T19:01:56.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T23:22:20.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeFormatter.cs",
+              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
+              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
+              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
+              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\TimeFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:52:27.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\App.xaml.cs",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\App.xaml.cs",
@@ -327,19 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BoolToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Helpers\\BoolToVisibilityConverter.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T23:29:15.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SplashWindow.xaml.cs",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\SplashWindow.xaml.cs",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Views\\SplashWindow.xaml.cs",
@@ -351,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "SettingsViewModel.cs",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\ViewModels\\SettingsViewModel.cs",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\ViewModels\\SettingsViewModel.cs",
@@ -363,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "SplashWindowViewModel.cs",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\ViewModels\\SplashWindowViewModel.cs",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\ViewModels\\SplashWindowViewModel.cs",
@@ -375,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "SettingsWindow.xaml",
               "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml",
               "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml",
@@ -383,18 +395,6 @@
               "RelativeToolTip": "DataAcquisitionSimulatorNew\\Views\\SettingsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-24T22:21:58.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Progetti Miei\\DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "DataAcquisitionSimulatorNew\\Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBoAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T18:31:18.243Z"
             },
             {
               "$type": "Document",

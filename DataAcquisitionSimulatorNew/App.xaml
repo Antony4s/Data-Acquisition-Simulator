@@ -12,7 +12,8 @@
 
             <!-- Register the StringToVisibilityConverter -->
             <local:StringToVisibilityConverter x:Key="StringToVisibilityConverter" />
-            
+            <local:BoolToVisibilityConverter x:Key="BoolToVisibilityConverter" />
         </ResourceDictionary>
+
     </Application.Resources>
 </Application>

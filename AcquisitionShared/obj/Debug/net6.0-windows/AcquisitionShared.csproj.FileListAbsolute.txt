@@ -9,3 +9,4 @@ C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-
 C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\refint\AcquisitionShared.dll
 C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.pdb
 C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\ref\AcquisitionShared.dll
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.sourcelink.json

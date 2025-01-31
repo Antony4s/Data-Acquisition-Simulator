@@ -70,3 +70,4 @@ C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionServer\obj\Debug\net6.0-
 C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionServer\obj\Debug\net6.0-windows\Acquisit.FDECD951.Up2Date
 C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionServer\bin\Debug\net6.0-windows\AcquisitionShared.dll
 C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionServer\bin\Debug\net6.0-windows\AcquisitionShared.pdb
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionServer\obj\Debug\net6.0-windows\AcquisitionServer.sourcelink.json

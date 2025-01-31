@@ -21,7 +21,8 @@
         </Grid.ColumnDefinitions>
 
         <!-- Side Panel -->
-        <Border Grid.Row="0" Grid.Column="0" Margin="10" Background="#f2f2f2" Padding="10">
+        <Border Grid.Row="0" Grid.Column="0" Margin="10" Background="#f2f2f2" Padding="10"
+                Visibility="{Binding IsSettingsVisible, Converter={StaticResource BoolToVisibilityConverter}}">
             <!--Visibility="{Binding IsSettingsVisible, Converter={StaticResource BoolToVisibilityConverter}}">-->
             <ScrollViewer VerticalScrollBarVisibility="Auto">
                 <StackPanel Orientation="Vertical" Width="250">
@@ -111,7 +112,7 @@
 
             <!-- Buttons -->
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-                <Button Content="Toggle Settings" Command="{Binding ToggleSettingsCommand}" />
+                <Button Content="{Binding SettingsButtonText}" Command="{Binding ToggleSettingsCommand}" />
                 <Button Content="Connect to Acquisition" Command="{Binding ConnectCommand}"/>
                 <Button Content="Start Acquisition" Command="{Binding StartAcquisitionCommand}" />
                 <Button Content="Stop Acquisition" Command="{Binding StopAcquisitionCommand}" />
