@@ -1,0 +1,11 @@
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\bin\Debug\net6.0-windows\AcquisitionShared.deps.json
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\bin\Debug\net6.0-windows\AcquisitionShared.dll
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\bin\Debug\net6.0-windows\AcquisitionShared.pdb
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.AssemblyInfoInputs.cache
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.AssemblyInfo.cs
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.csproj.CoreCompileInputs.cache
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.dll
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\refint\AcquisitionShared.dll
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\AcquisitionShared.pdb
+C:\Progetti Miei\DataAcquisitionSimulatorNew\AcquisitionShared\obj\Debug\net6.0-windows\ref\AcquisitionShared.dll

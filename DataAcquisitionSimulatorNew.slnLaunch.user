@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Gui + Acq",
+    "Projects": [
+      {
+        "Path": "DataAcquisitionSimulatorNew\\DataAcquisitionSimulatorNew.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AcquisitionServer\\AcquisitionServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

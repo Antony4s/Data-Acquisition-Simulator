@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.104.2" />
+    <PackageReference Include="EPPlus" Version="7.5.2" />
+    <PackageReference Include="LiveChartsCore.SkiaSharpView.WPF" Version="2.0.0-rc4.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AcquisitionProtocol\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcquisitionShared\AcquisitionShared.csproj" />
+  </ItemGroup>
+
+</Project>
